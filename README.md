@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yDpbj8_M)
-
 **Video Demo and Data Links**
 - Box: https://cmu.box.com/s/68efvyr2q3v8osrn0vbv13fv2ymxdqw9
 - Google Drive: https://drive.google.com/drive/folders/1JWlEojlUQ2_q9UCV61Ilf3RzDz_QetiL?usp=sharing
